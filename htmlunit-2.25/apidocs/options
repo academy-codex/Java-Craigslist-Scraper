@@ -1,0 +1,33 @@
+-classpath
+'C:/Users/ahmed_ashour/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/ahmed_ashour/.m2/repository/org/eclipse/jetty/websocket/websocket-client/9.4.1.v20170120/websocket-client-9.4.1.v20170120.jar;C:/Users/ahmed_ashour/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/ahmed_ashour/.m2/repository/xalan/serializer/2.7.2/serializer-2.7.2.jar;C:/Users/ahmed_ashour/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/ahmed_ashour/.m2/repository/org/eclipse/jetty/jetty-io/9.4.1.v20170120/jetty-io-9.4.1.v20170120.jar;C:/Users/ahmed_ashour/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/ahmed_ashour/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar;C:/Users/ahmed_ashour/.m2/repository/org/eclipse/jetty/jetty-http/9.4.1.v20170120/jetty-http-9.4.1.v20170120.jar;C:/Users/ahmed_ashour/.m2/repository/org/eclipse/jetty/websocket/websocket-api/9.4.1.v20170120/websocket-api-9.4.1.v20170120.jar;C:/Users/ahmed_ashour/.m2/repository/org/eclipse/jetty/websocket/websocket-common/9.4.1.v20170120/websocket-common-9.4.1.v20170120.jar;C:/Users/ahmed_ashour/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar;C:/Users/ahmed_ashour/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.23/htmlunit-core-js-2.23.jar;C:/Users/ahmed_ashour/.m2/repository/org/w3c/css/sac/1.3/sac-1.3.jar;C:/Users/ahmed_ashour/.m2/repository/net/sourceforge/htmlunit/neko-htmlunit/2.25/neko-htmlunit-2.25.jar;C:/Users/ahmed_ashour/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar;C:/Users/ahmed_ashour/.m2/repository/net/sourceforge/cssparser/cssparser/0.9.22/cssparser-0.9.22.jar;C:/Users/ahmed_ashour/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar;C:/Users/ahmed_ashour/.m2/repository/org/eclipse/jetty/jetty-client/9.4.1.v20170120/jetty-client-9.4.1.v20170120.jar;C:/Users/ahmed_ashour/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar;C:/Users/ahmed_ashour/.m2/repository/xalan/xalan/2.7.2/xalan-2.7.2.jar;C:/Users/ahmed_ashour/.m2/repository/org/eclipse/jetty/jetty-util/9.4.1.v20170120/jetty-util-9.4.1.v20170120.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/use/eclipse/workspace/htmlunit/src/main/java;C:/use/eclipse/workspace/htmlunit/target/generated-sources/annotations'
+-Xdoclint:none
+-author
+-bottom
+'Copyright &#169; 2002&#x2013;2017 <a href="http://www.GargoyleSoftware.com/">Gargoyle Software Inc.</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/use/eclipse/workspace/htmlunit/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HtmlUnit 2.25 API'
+-link
+'http://docs.oracle.com/javase/8/docs/api'
+-link
+'http://commons.apache.org/logging/apidocs'
+-link
+'http://commons.apache.org/codec/apidocs'
+-link
+'http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/use/eclipse/workspace/htmlunit/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'HtmlUnit 2.25 API'
